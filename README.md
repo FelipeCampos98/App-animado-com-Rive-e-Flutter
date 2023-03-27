@@ -1,16 +1,6 @@
-# rive_animation
 
-A new Flutter project.
+![Screenshot_1](https://user-images.githubusercontent.com/113273299/228086310-08bfc861-c966-47fa-b98e-34f9e24a4b99.png)
+![Screenshot_2](https://user-images.githubusercontent.com/113273299/228086605-320bd72d-e263-4e7a-89cb-8cd27a4eb54a.png)
+![Screenshot_3](https://user-images.githubusercontent.com/113273299/228086818-65ac8b97-24c2-4d60-a8c1-5e17b24ca7d9.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tela de Login com animação em movimento e blur feito no rive e caixa de dialogo para entrar com conta do Google, App store e Email
